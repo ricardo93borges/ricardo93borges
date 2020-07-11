@@ -1,6 +1,12 @@
 ### Hello world 👋
 
+I'm Ricardo, a software engineer, here you'll find many projects for different purposes in different programming languages, because I'm always learning something new.
 
+#### Getting in touch
+
+LinkedIn: https://www.linkedin.com/in/ricardo-borges-silva/
+
+Dev.to: https://dev.to/ricardo93borges
 
 <!--
 **ricardo93borges/ricardo93borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
