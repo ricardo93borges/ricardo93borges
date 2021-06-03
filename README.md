@@ -2,9 +2,11 @@
 
 I'm Ricardo, a software engineer, here you'll find many projects for different purposes in different programming languages, because I'm always learning something new.
 
-#### Getting in touch
+#### Getting in touch 📫
 
-LinkedIn: https://www.linkedin.com/in/ricardo-borges-silva/
+LinkedIn: https://www.linkedin.com/in/ricardo-borges-silva
+
+My blog: https://ricardoborges.dev
 
 Dev.to: https://dev.to/ricardo93borges
 
