@@ -8,7 +8,7 @@ I'm a software engineer, here you'll find many projects for different purposes i
 
 LinkedIn: https://www.linkedin.com/in/ricardo-borges-silva
 
-My blog: https://ricardoborges.dev
+Blog: https://ricardoborges.dev
 
 Dev.to: https://dev.to/ricardo93borges
 
