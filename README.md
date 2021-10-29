@@ -9,7 +9,7 @@
 <p align="center">I'm a software engineer and here you'll find many projects for different purposes in different programming languages, because I'm always learning something new.</p>
     
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight&langs_count=8&layout=compact&hide=java,c,objective-c,makefile&exclude_repo" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight" width="450"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight&langs_count=8&layout=compact&hide=java,c,objective-c,makefile&exclude_repo" width="325" />
 </p>
 
 
