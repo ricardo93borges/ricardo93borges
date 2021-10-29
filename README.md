@@ -1,18 +1,13 @@
-### Hello world 👋
+<h1 align="center"> Hi there, I'm Ricardo </h1>
 
-I'm a software engineer, here you'll find many projects for different purposes in different programming languages, because I'm always learning something new.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-borges-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ricardo-borges-silva/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
+  <a href="https://ricardoborges.dev/"><img src="https://img.shields.io/badge/-WEBSITE-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Website" /></a>
+</p>
 
-🔭 I’m currently working on [alphavantage-wrapper-ts](https://github.com/ricardo93borges/alphavantage-wrapper-ts)
+<p align="center">I'm a software engineer and here you'll find many projects for different purposes in different programming languages, because I'm always learning something new.</p>
 
-#### Getting in touch 📫
-
-LinkedIn: https://www.linkedin.com/in/ricardo-borges-silva
-
-Blog: https://ricardoborges.dev
-
-Dev.to: https://dev.to/ricardo93borges
-
-Twitter: https://twitter.com/Borges_rocks
 
 <!--
 **ricardo93borges/ricardo93borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
