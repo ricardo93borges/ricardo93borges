@@ -7,12 +7,56 @@
 </p>
 
 <p align="center">I'm a software engineer and here you'll find many projects for different purposes in different programming languages, because I'm always learning something new.</p>
+
+<br/><br/>
     
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight" width="450"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight&langs_count=8&layout=compact&hide=java,c,objective-c,makefile&exclude_repo" width="325" />
 </p>
+    
+<br/><br/>
+    
+<h2 align="center"> Languages and tools </h2>
+    
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>   
+</p>
+    
 
-
+<!--
+language and tools
+    
+    JS
+    TS
+    NodeJS
+    ReactJS
+    Jest
+    HTML5
+    CSS3
+    NextJS
+    MySQL
+    MongoDB
+    Docker
+    Vercel
+    Firebase
+    AWS
+    
+    
+-->
+    
 
 <!--
 **ricardo93borges/ricardo93borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
