@@ -38,27 +38,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>  
 </p>
 
-<!--
-language and tools
-    
-    JS
-    TS
-    NodeJS
-    ReactJS
-    Jest
-    HTML5
-    CSS3
-    NextJS
-    MySQL
-    MongoDB
-    Docker
-    Vercel
-    Firebase
-    AWS
-    
-    
--->
-    
+<br/>
+
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fricardo93borges&count_bg=%230D1117&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
+</p>
 
 <!--
 **ricardo93borges/ricardo93borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
