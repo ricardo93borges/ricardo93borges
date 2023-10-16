@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardo-borges-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.linkedin.com/in/ricardo-borges-silva/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
+  <a href="https://dev.to/ricardo_borges"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
   <a href="https://ricardoborges.dev/"><img src="https://img.shields.io/badge/-WEBSITE-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Website" /></a>
 </p>
 
